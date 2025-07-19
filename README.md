@@ -1,1 +1,1 @@
-# AI Salary Predictor
+
