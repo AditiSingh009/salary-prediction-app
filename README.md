@@ -1,4 +1,5 @@
 # AI Salary Predictor
+<<<<<<< HEAD
 
 This is a Streamlit web application that predicts an individual's estimated salary based on input features such as age,gender,education level,job title, and years of experience. The app uses a Linear Regression model trained on structured salary data.
 
@@ -12,7 +13,7 @@ This is a Streamlit web application that predicts an individual's estimated sala
 
 ## App Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](salar_prediction.png)
 
 ## Installation Guide
 
@@ -61,3 +62,5 @@ streamlit run app.py
 
 
 
+=======
+>>>>>>> c0f3797c3d94268b1ccaa058173f28bd20aead79
